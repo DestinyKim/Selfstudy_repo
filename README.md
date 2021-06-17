@@ -5,3 +5,4 @@
 |-----|-----|-----|-----|
 |210616|0616 BeautifulSoup.ipynb|Python|BeautifulSoup 개념 및 실습|
 |210616|0616_practice.ipynb|Python|BeautifulSoup 개념 및 실습|
+|210617|0617|Python|BeautifulSoup 개념 및 실습|
