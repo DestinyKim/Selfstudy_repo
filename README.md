@@ -10,3 +10,4 @@
 |210621|0621_AmazonWeb.ipynb|Python|Amazon Review Crawling|
 |210621|review_self.csv||Amazon Review Crawling to csv|
 |210621|review_self.xlsx||Amazon Review Crawling to excel|
+|210621|0621_Webtoon_Crawling|Python|네이버웹툰 중증외상센터:골든아워 Review|
