@@ -7,3 +7,6 @@
 |210616|0616_practice.ipynb|Python|BeautifulSoup 개념 및 실습|
 |210617|0617|Python|BeautifulSoup 개념 및 실습|
 |210618|0618_SelfStudy.ipynb|Python|Tuple, Set, 조건문, 반복문 by 나도코딩|
+|210621|0621_AmazonWeb.ipynb|Python|Amazon Review Crawling|
+|210621|review_self.csv||Amazon Review Crawling to csv|
+|210621|review_self.xlsx||Amazon Review Crawling to excel|
