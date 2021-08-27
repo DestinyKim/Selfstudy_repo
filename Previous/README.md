@@ -1,4 +1,4 @@
-# selfstudy_repo
+# selfstudy_repo/Previous
  A place to study on development
 
 |일자|파일명|언어|내용| 
