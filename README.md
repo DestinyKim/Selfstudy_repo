@@ -3,11 +3,10 @@
 
 |일자|파일명|언어|내용| 
 |-----|-----|-----|---------------------------|
-|210616|0616 BeautifulSoup.ipynb|Python|BeautifulSoup 개념 및 실습|
-|210616|0616_practice.ipynb|Python|BeautifulSoup 개념 및 실습|
-|210617|0617|Python|BeautifulSoup 개념 및 실습|
-|210618|0618_SelfStudy.ipynb|Python|Tuple, Set, 조건문, 반복문 by 나도코딩|
-|210621|0621_AmazonWeb.ipynb|Python|Amazon Review Crawling|
-|210621|review_self.csv||Amazon Review Crawling to csv|
-|210621|review_self.xlsx||Amazon Review Crawling to excel|
-|210621|0621_Webtoon_Crawling|Python|네이버웹툰 중증외상센터:골든아워 Review|
+|210827|파이썬 기초 실습|Python|파이썬 기초 및 실습|
+|210827|cal.py|Python|모듈 실습 참고용|
+|210827|데이터 분석을 위한 라이브러리_Numpy|Python|Numpy 개념 및 실습|
+
+* 참조) 
+ 2021 AI 온라인 실무 기본/응용 과정[https://2021nipa.elice.io/explore]
+ 
