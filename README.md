@@ -9,4 +9,4 @@
 
 * 참조) 
  2021 AI 온라인 실무 기본/응용 과정[https://2021nipa.elice.io/explore]
- 
+ 허민석님 YOUTUBE_캐글 - 타이타닉 생존자 예측하기 [https://www.youtube.com/watch?v=aqp_9HV58Ls&list=PLVNY1HnUlO25B-8Gwn1mS35SD0yMHh147&index=2]
